@@ -9,16 +9,17 @@ Acme::Very::Modern::Perl - Use the most modern of Perl!
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use Modern::Perl;
 use Toolkit;
 use latest;
 use uni::perl;
+use common::sense;
 
 2;
 __END__
@@ -26,6 +27,11 @@ __END__
 =head1 SYNOPSIS
 
     use Acme::Very::Modern::Perl;
+
+=head1 DESCRIPTION
+
+Using this module, you'll get L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>,
+and L<common::sense> with just one simple line.
 
 =head1 AUTHOR
 
@@ -67,7 +73,7 @@ L<http://search.cpan.org/dist/Acme-Very-Modern-Perl/>
 
 =head1 SEE ALSO
 
-L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>.
+L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>.
 
 =head1 COPYRIGHT & LICENSE
 

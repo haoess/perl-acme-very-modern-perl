@@ -17,6 +17,7 @@ WriteMakefile(
         'Toolkit' => 0,
         'latest' => 0,
         'uni::perl' => 0,
+        'common::sense' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Acme-Very-Modern-Perl-*' },

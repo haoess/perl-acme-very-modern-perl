@@ -1,5 +1,8 @@
 Revision history for Acme-Very-Modern-Perl
 
+0.03    2010-02-27
+        * add perl5i
+
 0.02    2009-11-04
         * add common::sense
         * more documentation

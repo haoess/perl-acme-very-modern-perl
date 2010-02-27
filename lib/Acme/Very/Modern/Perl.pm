@@ -9,17 +9,18 @@ Acme::Very::Modern::Perl - Use the most modern of Perl!
 
 =head1 VERSION
 
-Version 0.02
+Version 0.03
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 use Modern::Perl;
 use Toolkit;
 use latest;
 use uni::perl;
 use common::sense;
+use perl5i::1;
 
 2;
 __END__
@@ -31,7 +32,7 @@ __END__
 =head1 DESCRIPTION
 
 Using this module, you'll get L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>,
-and L<common::sense> with just one simple line.
+L<perl5i>, and L<common::sense> with just one simple line.
 
 =head1 AUTHOR
 

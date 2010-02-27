@@ -74,7 +74,7 @@ L<http://search.cpan.org/dist/Acme-Very-Modern-Perl/>
 
 =head1 SEE ALSO
 
-L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>.
+L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>, L<perl5i>.
 
 =head1 COPYRIGHT & LICENSE
 

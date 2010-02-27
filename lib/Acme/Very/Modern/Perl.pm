@@ -78,7 +78,7 @@ L<Modern::Perl>, L<Toolkit>, L<latest>, L<uni::perl>, L<common::sense>.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2009 Frank Wiegand.
+Copyright 2009, 2010 Frank Wiegand.
 
 This program is free software; you can redistribute it and/or modify it
 under the terms of either: the GNU General Public License as published

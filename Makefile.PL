@@ -18,7 +18,7 @@ WriteMakefile(
         'latest' => 0,
         'uni::perl' => 0,
         'common::sense' => 0,
-        'perl5i' => 0,
+        'perl5i' => 'v1.0.0',
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Acme-Very-Modern-Perl-*' },

@@ -9,18 +9,18 @@ Acme::Very::Modern::Perl - Use the most modern of Perl!
 
 =head1 VERSION
 
-Version 0.04;
+Version 0.05;
 
 =cut
 
-our $VERSION = '0.04';
+our $VERSION = '0.05';
 
 use Modern::Perl;
 use Toolkit;
 use latest;
 use uni::perl;
 use common::sense;
-use perl5i::1;
+use perl5i::latest;
 
 2;
 __END__

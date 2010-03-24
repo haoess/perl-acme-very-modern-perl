@@ -1,5 +1,8 @@
 Revision history for Acme-Very-Modern-Perl
 
+0.05    2010-03-24
+        * use perl5i::latest
+
 0.04    2010-03-03
         * fix perl5i dependency
 
